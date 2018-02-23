@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.actuator=3
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-config-server=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=pluralsight-springcloud-m2-configserver-git
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=1.5.10.RELEASE
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=testing out spring config server with git
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=pluralsight.demo
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=9
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=pluralsight-springcloud-m2-configserver-git
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=pluralsight.demo
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=GRADLE-Buildship 2.x
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=http\://start.spring.io\n
