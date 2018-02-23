@@ -16,7 +16,7 @@ apply plugin: 'org.springframework.boot'
 
 group = 'pluralsight.demo'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = 1.8
+sourceCompatibility = 9
 
 repositories {
 	mavenCentral()
@@ -29,6 +29,7 @@ ext {
 
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-actuator')
+	compile('org.springframework.boot:spring-boot-starter-security')
 	compile('org.springframework.cloud:spring-cloud-config-server')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
